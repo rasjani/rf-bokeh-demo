@@ -11,6 +11,4 @@ Steps:
 
 Demo uses color_scatter example from Bokeh gallery and looks something like this in the RF log:
 
-![Example](https://github.com/rasjani/rf-bokeh-demo/blob/master/example.png?raw=true)
-
-
+![Example](https://raw.githubusercontent.com/rasjani/rf-bokeh-demo/main/example.png)
